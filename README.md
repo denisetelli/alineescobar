@@ -6,6 +6,7 @@ atualmente estudo swift nas horas vagas e gosto de estudar linguagens (não apen
 
 sou tutora de dois gatinhos 🐈 lindos e estou tentando aprender a tocar baixo 🎸
 
+![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)
 <!--
 **alineescobar/alineescobar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
